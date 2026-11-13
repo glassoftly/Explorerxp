@@ -208,4 +208,4 @@ This repository serves as the official landing page for ExplorerXP. The software
 **Get the most recent version of ExplorerXP today!**
 
 ---
-**Last updated:** 2026-11-13 15:48:16 UTC
+**Last updated:** 2026-11-13 21:43:52 UTC
